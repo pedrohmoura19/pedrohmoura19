@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **pedrohmoura19/pedrohmoura19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1>Hello World 👋, I'm Pedro Moura</h1>
 <p>A Full Stack software developer passionate about creating new things that impact people lives!</p>
-- ⭐ The area that I have more knowledge in is Front-end.
+- ⭐ The area that I have more knowledge in is Front-end. <br/>
 - 🌱 I’m currently learning more about Back-End tools.
 - 👨‍🎓 I’m current studying Computer Engineering at Universidade de Brasilia.
 - ❤️ Technology that I love the most: Angular.
