@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <h1>Hello World 👋, I'm Pedro Moura</h1>
 <p>A Full Stack software developer passionate about creating new things that impact people lives!</p>
 - ⭐ The area that I have more knowledge in is Front-end. <br/>
-- 🌱 I’m currently learning more about Back-End tools.
-- 👨‍🎓 I’m current studying Computer Engineering at Universidade de Brasilia.
-- ❤️ Technology that I love the most: Angular.
+- 🌱 I’m currently learning more about Back-End tools. <br/>
+- 👨‍🎓 I’m current studying Computer Engineering at Universidade de Brasilia.<br/>
+- ❤️ Technology that I love the most: Angular.<br/>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
