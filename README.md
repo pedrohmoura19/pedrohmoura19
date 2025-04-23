@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 <h1>Hello World 👋, I'm Pedro Moura</h1>
 <p>A Full Stack software developer passionate about creating new things that impact people lives!</p>
-- ⭐ The area that I have more knowledge in is Front-end. <br/>
+- ⭐ My main stack is Angular/Typescript + Java/Spring <br/>
 - 🌱 I’m currently learning more about Back-End tools. <br/>
-- 👨‍🎓 I’m current studying Computer Engineering at Universidade de Brasilia.<br/>
+- 👨‍🎓 I’m currently studying Computer Engineering at Universidade de Brasilia.<br/>
 - ❤️ Technology that I love the most: Angular.<br/>
 
 <h2>🚀 Languages and Tools I Use</h2>
@@ -49,4 +49,3 @@ Here are some ideas to get you started:
 <p><a target="_blank" href="https://www.linkedin.com/in/pedrohmouras" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrohmoura19&show_icons=true&locale=en" alt="pedrohmoura19" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrohmoura19&" alt="pedrohmoura19" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrohmoura19" alt="pedrohmoura19" /></a></p>
